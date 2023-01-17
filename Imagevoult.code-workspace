@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Users/NISCHAL/Desktop/newlogin/colorlib-regform-7/css"
+		},
+		{
+			"path": "../../../Users/NISCHAL/Desktop/newlogin/colorlib-regform-7/fonts"
+		},
+		{
+			"path": "../../../Users/NISCHAL/Desktop/newlogin/colorlib-regform-7/js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Imagevoult"
+	}
+}
